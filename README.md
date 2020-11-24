@@ -1,5 +1,9 @@
-# Windows-10
+<small>
+  
+## windows10-custom
+
 Настройки для Windows 10
+
 ```txt
 "Вывести все пакеты"
 Get-AppxPackage | Select Name, PackageFullName
@@ -66,3 +70,4 @@ Microsoft.ECApp                             Microsoft.ECApp_10.0.18362.387_neutr
 Microsoft.CredDialogHost                    Microsoft.CredDialogHost_10.0.18362.387_neutral__cw5n1h2txyewy             
 Microsoft.BioEnrollment                     Microsoft.BioEnrollment_10.0.18362.387_neutral__cw5n1h2txyewy              
 ```
+</small>
